@@ -1,0 +1,4 @@
+#+title: Servo Library for Arduino Uno
+
+This library allows an Arduino Uno (ATmega328P) board to control RC
+(hobby) servo motors with on-chip PWM.
